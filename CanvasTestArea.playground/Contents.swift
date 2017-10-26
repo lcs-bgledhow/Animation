@@ -26,7 +26,19 @@ let canvas = Canvas(width: 400, height: 300)
  */
 // Replace this comment with your first comment – what is the goal of the code you're about to write?
 
-
+class sketch {
+    var x = Int
+    
+    init() {
+       x=0
+        
+    }
+    
+    
+    
+    
+    
+}
 
 /*:
  ## Use source control
